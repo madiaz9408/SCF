@@ -1,0 +1,15 @@
+{
+  "CTkButton": {
+    "corner_radius": 6,
+    "border_width": 0,
+    "fg_color": "#2b5d84",
+    "hover_color": "#1e3d5a",
+    "text_color": "white",
+    "font": ["Arial", 12]
+  },
+  "CTkFrame": {
+    "corner_radius": 0,
+    "border_width": 0,
+    "fg_color": ["gray92", "gray14"]
+  }
+}
